@@ -26,6 +26,12 @@
         tools:layout_editor_absoluteX="151dp"
         tools:layout_editor_absoluteY="400dp" />
 
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Button" />
+
     <ImageView
         android:id="@+id/imageView3"
         android:layout_width="match_parent"
